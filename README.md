@@ -1,5 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+Привет! Меня зовут Александр — инженер DevOps и энтузиаст в области разработки, автоматизации и облачных технологий.  
+Я люблю исследовать новые технологии, создавать полезные инструменты и делиться знаниями.
+
+## 🔭 Сейчас работаю над:
+- Автоматизацией инфраструктуры и CI/CD пайплайнами
+- ML-сервисом для категоризации подписок
+- Telegram-ботами с глубоким функционалом (включая загрузку видео и генерацию ссылок)
+
+## 👯 Ищу сотрудничество в:
+- Open Source проектах по DevOps и ML
+- Создании полезных CLI-инструментов и Telegram-ботов
+- Внедрении инфраструктуры как кода (IaC)
+
+## 🤝 Готов помочь с:
+- Настройкой CI/CD (GitLab, GitHub Actions)
+- Развёртыванием приложений (Docker, Nginx, Kubernetes)
+- Вопросами по Python, Bash, Linux, Git
+
+## 🌱 Сейчас изучаю:
+- Kubernetes и Ingress-контроллеры
+- MLOps-практики и продакшн ML
+- Архитектуру облаков и автоматизацию развёртывания
+
+## 💬 Спрашивай меня о:
+- DevOps практиках
+- Написании и деплое бэкендов на Python
+- Интеграции систем мониторинга (Grafana, Prometheus)
+
+## ⚡ Факт обо мне:
+> Люблю писать сложные shell-скрипты, которые в итоге заменяются одной строчкой Python 😄
 
 
 # 💻 Tech Stack:
@@ -11,5 +40,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yafoxins&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📬 Контакты
+
+- 🧑‍💻 Telegram: [@yafoxin](https://t.me/yafoxin)  
+- 📢 Канал: [@yafoxins](https://t.me/yafoxins)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/yafoxin)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/yafoxins)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
