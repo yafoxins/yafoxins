@@ -39,7 +39,7 @@
 ## 📬 Контакты
 
 - 🧑‍💻 Telegram: [@yafoxin](https://t.me/yafoxin)  
-- 📢 Канал: [@yafoxins](https://t.me/yafoxins)
+- 📢 Канал: [@yafoxindev](https://t.me/yafoxindev)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/yafoxin)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/yafoxins)
